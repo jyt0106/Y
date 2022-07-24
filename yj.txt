@@ -3,6 +3,22 @@ CCTV1-综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV2-财经,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 CCTV-4 中文国际,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
 CCTV13-新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+📺芒果综艺,#genre#
+我和我的祖国,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8
+唐人街探案3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
+芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8#http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
+芒果华语电影4K,http://39.135.49.20:6610/PLTV/88888888/224/3221226708/1.m3u8?servicetype=1
+芒果欧美电影4K,http://39.135.49.20:6610/PLTV/88888888/224/3221226712/1.m3u8?servicetype=1
+芒果娱乐4K,http://39.135.55.103:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+芒果娱乐4K,http://39.135.49.209:6610/PLTV/88888888/224/3221226887/1.m3u8?servicetype=1
+芒果剧场4K,http://39.135.49.209:6610/PLTV/88888888/224/3221226692/1.m3u8?servicetype=1
+华数 ,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+英雄联盟,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+华数高清,http://125.210.152.19:9090/live/hzgq-hsfwgq-h264.m3u8
+
 🍊Bilibili(ljk播放器),#genre#
 24小时连播蓝胖子,http://zzy789.xyz/bili.php?id=482946
 【哆啦A梦】旧版全集,http://zzy789.xyz/bili.php?id=1717236
