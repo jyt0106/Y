@@ -4,6 +4,7 @@ CCTV2-财经,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 CCTV-4 中文,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
 CCTV13-新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 📺芒果综艺,#genre#
+芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8#http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
 唐人街探案3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
 华数 ,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
