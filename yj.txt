@@ -365,9 +365,8 @@ CHC动作电影,http://117.148.179.154/PLTV/88888888/224/3221232945/index.m3u8?z
 一大头的包+【蜡笔小新】国语高清，24小时直播哦！,http://106.53.212.251/daili/bili.php?id=10375360
 勤俭败家+郭德纲单口相声24小时直播,http://106.53.212.251/daili/bili.php?id=22375571
 🌺🌺广东,#genre#
-广东珠江 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-广东珠江1,
-https://epg.pm/stream/2315966b5a101566281132c779618a158aa34f7467a531adb05e2b33661a6cb4.m3u8
+广东珠江 (1080p),http://116.199.5.51:8114/00000000/index.m3u8?
+广东珠江1,https://epg.pm/stream/2315966b5a101566281132c779618a158aa34f7467a531adb05e2b33661a6cb4.m3u8
 
 广东珠江2,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
